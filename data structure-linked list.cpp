@@ -1,5 +1,6 @@
-    /*22070123150 Experiment */
-    /*data str - linked lists*/
+    /*22070123129*/
+    /*Varun Pagote*/
+    /*Linked list*/
     #include<iostream>
     using namespace std;
     struct node
